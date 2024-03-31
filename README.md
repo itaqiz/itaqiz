@@ -46,14 +46,3 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-## Hire me/Support me
-If you're interested in hiring me or supporting my work, you can do so through the following platforms:
-- [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://img.icons8.com/color/48/000000/patreon--v1.png" width="32px" align="center"/>
-- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" width="32px" align="center"/>
-- [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="32px" align="center"/>
-- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://img.icons8.com/color/48/000000/freelancer.png" width="32px" align="center"/>
-- [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://img.icons8.com/color/48/000000/guru.png" width="32px" align="center"/>
-- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://www.pngegg.com/en/png-cxwzz" width="32px" align="center"/>
-
-
-
