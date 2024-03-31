@@ -48,11 +48,11 @@
 <h2> Hire me/Support me <img src='https://emojicombos.com/files/apple-emojis/objects-ios/1F91D.png' width="32px" align="center"> </h2>
 If you're interested in hiring me or supporting my work, you can do so through the following platforms:
 
-- [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://simpleicons.org/icons/patreon.svg" width="32px" align="center"/>
-- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://simpleicons.org/icons/buymeacoffee.svg" width="32px" align="center"/>
-- [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://simpleicons.org/icons/fiverr.svg" width="32px" align="center"/>
-- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://simpleicons.org/icons/freelancer.svg" width="32px" align="center"/>
-- [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://simpleicons.org/icons/guru.svg" width="32px" align="center"/>
-- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://simpleicons.org/icons/upwork.svg" width="32px" align="center"/>
+- [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://img.icons8.com/color/48/000000/patreon--v1.png" width="32px" align="center"/>
+- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://img.icons8.com/color/48/000000/buy-me-a-coffee.png" width="32px" align="center"/>
+- [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="32px" align="center"/>
+- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://img.icons8.com/color/48/000000/freelancer.png" width="32px" align="center"/>
+- [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://img.icons8.com/color/48/000000/guru.png" width="32px" align="center"/>
+- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://img.icons8.com/color/48/000000/upwork.png" width="32px" align="center"/>
 
 
