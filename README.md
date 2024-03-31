@@ -51,7 +51,7 @@ If you're interested in hiring me or supporting my work, you can do so through t
 - [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://img.icons8.com/color/48/000000/patreon--v1.png" width="32px" align="center"/>
 - [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://icon-icons.com/downloadimage.php?id=170431&root=2211/ICO/16/" width="32px" align="center"/>
 - [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="32px" align="center"/>
-- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://img.icons8.com/color/48/000000/freelancer.png" width="32px" align="center"/>
+- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="[https://img.icons8.com/color/48/000000/freelancer.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dfreelancer&psig=AOvVaw3vtdfLJy_L5p7Qddc2D5Lz&ust=1711952676775000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCyt-runYUDFQAAAAAdAAAAABAE)" width="32px" align="center"/>
 - [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://img.icons8.com/color/48/000000/guru.png" width="32px" align="center"/>
 - [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://img.icons8.com/color/48/000000/upwork.png" width="32px" align="center"/>
 
