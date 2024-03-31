@@ -37,7 +37,6 @@
 
 <br>
 
-[!(https://activity-graph.herokuapp.com/graph?username=itaqiz&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=tokyonight) | ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itaqiz&theme=tokyonight) |
 | --- | --- |
