@@ -49,7 +49,7 @@
 If you're interested in hiring me or supporting my work, you can do so through the following platforms:
 
 - [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://img.icons8.com/color/48/000000/patreon--v1.png" width="32px" align="center"/>
-- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://img.icons8.com/color/48/000000/buy-me-a-coffee.png" width="32px" align="center"/>
+- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://icon-icons.com/downloadimage.php?id=170431&root=2211/ICO/16/" width="32px" align="center"/>
 - [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="32px" align="center"/>
 - [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://img.icons8.com/color/48/000000/freelancer.png" width="32px" align="center"/>
 - [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://img.icons8.com/color/48/000000/guru.png" width="32px" align="center"/>
