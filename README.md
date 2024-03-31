@@ -16,18 +16,22 @@
 - 👯 I’m looking to collaborate on open-source projects and any other related stuff for my portfolio.
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
-- Python <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/python_logo.png" width="24px">
-- C++ <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/cpp_logo.png" width="24px">
-- HTML <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/html_logo.png" width="24px">
-- CSS <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/css_logo.png" width="24px">
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=lisp&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/lisp.svg"></a>
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=cpp&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=html&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=css&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
+<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=sql&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sql.svg"></a>
 
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px">
-[![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/itaqiz/)
-[![Twitter](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg)](https://twitter.com/iTaqiZ)
-[![Instagram](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg)](https://www.instagram.com/iTaqiZ/)
-[![Facebook](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg)](https://www.facebook.com/iTaqiZ)
-[![GitHub](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg)](https://www.github.com/itaqiz)
+
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<a href='https://www.linkedin.com/in/itaqiz/'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href='https://twitter.com/iTaqiZ'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href='https://www.instagram.com/iTaqiZ/'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href='https://www.facebook.com/iTaqiZ'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
+<a href='https://www.github.com/itaqiz'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
 
 <br>
 
