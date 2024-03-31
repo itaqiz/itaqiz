@@ -45,13 +45,14 @@
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<h2> Hire me/Support me <img src='https://emojicombos.com/files/apple-emojis/objects-ios/1F44D.png' width="32px" align="center"> </h2>
+<h2> Hire me/Support me <img src='https://emojicombos.com/files/apple-emojis/objects-ios/1F91D.png' width="32px" align="center"> </h2>
 If you're interested in hiring me or supporting my work, you can do so through the following platforms:
 
-- [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/patreon-colored.svg" width="32px" align="center"/>
-- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/buymeacoffee-colored.svg" width="32px" align="center"/>
-- [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/fiverr-colored.svg" width="32px" align="center"/>
-- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/freelancer-colored.svg" width="32px" align="center"/>
-- [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/guru-colored.svg" width="32px" align="center"/>
-- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/upwork-colored.svg" width="32px" align="center"/>
+- [Patreon](https://www.patreon.com/iTaqiZ) <img src="https://simpleicons.org/icons/patreon.svg" width="32px" align="center"/>
+- [Buy Me a Coffee](https://www.buymeacoffee.com/itaqiz) <img src="https://simpleicons.org/icons/buymeacoffee.svg" width="32px" align="center"/>
+- [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://simpleicons.org/icons/fiverr.svg" width="32px" align="center"/>
+- [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://simpleicons.org/icons/freelancer.svg" width="32px" align="center"/>
+- [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://simpleicons.org/icons/guru.svg" width="32px" align="center"/>
+- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://simpleicons.org/icons/upwork.svg" width="32px" align="center"/>
+
 
