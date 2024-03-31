@@ -53,7 +53,7 @@ If you're interested in hiring me or supporting my work, you can do so through t
 - [Fiverr](https://www.fiverr.com/itaqiz?up_rollout=true) <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="32px" align="center"/>
 - [Freelancer](https://www.freelancer.com/u/itaqiz) <img src="https://img.icons8.com/color/48/000000/freelancer.png" width="32px" align="center"/>
 - [Guru](https://www.guru.com/freelancers/muhammad-taqui) <img src="https://img.icons8.com/color/48/000000/guru.png" width="32px" align="center"/>
-- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://img.icons8.com/color/48/000000/upwork.png" width="32px" align="center"/>
+- [Upwork](https://www.upwork.com/freelancers/~010f22c83dcdda9a5d) <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Upwork_%28company%29_logo.svg" width="32px" align="center"/>
 
 
 
