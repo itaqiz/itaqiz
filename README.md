@@ -16,13 +16,13 @@
 - 👯 I’m looking to collaborate on open-source projects and any other related stuff for my portfolio.
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
-- Python ![Python](https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/python_logo.png)
-- C++ ![C++](https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/cpp_logo.png)
-- HTML ![HTML](https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/html_logo.png)
-- CSS ![CSS](https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/css_logo.png)
+- Python <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/python_logo.png" width="24px">
+- C++ <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/cpp_logo.png" width="24px">
+- HTML <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/html_logo.png" width="24px">
+- CSS <img src="https://raw.githubusercontent.com/itaqiz/itaqiz/main/images/css_logo.png" width="24px">
 
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px">
 [![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/itaqiz/)
 [![Twitter](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg)](https://twitter.com/iTaqiZ)
 [![Instagram](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg)](https://www.instagram.com/iTaqiZ/)
