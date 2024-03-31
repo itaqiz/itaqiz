@@ -38,7 +38,7 @@
 
 <br>
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=tokyonight) | ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itaqiz&theme=tokyonight) |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
