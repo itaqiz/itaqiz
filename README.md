@@ -1,7 +1,5 @@
 <h1> Hello Fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-[![Github](https://img.shields.io/github/followers/itaqiz?label=Follow&style=social)](https://github.com/itaqiz)
-
 <div size='16px'> Hi! My name is Muhammad Taqui. Thank you for taking the time to view my GitHub Profile 😊 
 </div>
 
