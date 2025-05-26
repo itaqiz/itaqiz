@@ -1,42 +1,51 @@
-<h1> Hello Fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+# Hello, I'm Muhammad Taqui 👋
 
-<div size='16px'> Hi! My name is Muhammad Taqui. Thank you for taking the time to view my GitHub Profile 😊 
+🎓 Pursuing Bachelor's in Artificial Intelligence  
+💻 Passionate about AI, Machine Learning, and Open Source  
+🌱 Continuously learning and building projects to expand my skills
+
+## 🔧 Technologies & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lisp](https://img.shields.io/badge/Common_Lisp-87AED7?style=for-the-badge&logo=common-lisp&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data & Others
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/itaqiz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </div>
 
-## About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="80px">
+<div align="center">
+  <a href="https://github.com/itaqiz">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itaqiz&theme=radical"/>
+  </a>
+</div>
 
-- 🔭 I’m currently pursuing my bachelor's degree in artificial intelligence. I'm also learning other amazing things related to AI and Machine Learning from the internet.
-  
-- 👯 I’m looking to collaborate on open-source projects and any other related stuff for my portfolio.
+## 🤝 Let's Connect
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=lisp&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/common-lisp.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=cpp&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=html&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=css&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=sql&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sql.svg"></a>
-<a href="https://github.com/itaqiz?tab=repositories&q=&type=&language=tex&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/latex.svg"></a>
+I'm always open to collaborating on interesting projects and discussing AI/ML concepts.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaqiz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iTaqiZ)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/itaqiz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/itaqiz)
 
+## 🚀 Currently
 
-
-
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<a href="https://www.linkedin.com/in/itaqiz/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href="https://twitter.com/iTaqiZ"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href="https://www.instagram.com/iTaqiZ/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href="https://www.facebook.com/iTaqiZ"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
-<a href="https://www.github.com/itaqiz"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://www.kaggle.com/itaqiz"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg"/></a>
-
-
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=tokyonight) | ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itaqiz&theme=tokyonight) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
+- 🔭 Working on AI/ML projects to enhance my portfolio
+- 🌱 Learning advanced machine learning concepts
+- 👯 Looking to collaborate on open-source AI projects
+- 💬 Ask me about Python, AI fundamentals, or beginner ML concepts
