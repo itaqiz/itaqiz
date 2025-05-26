@@ -19,15 +19,18 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-## 🔍 GitHub Analytics 
+## 📊 GitHub Analytics
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
-[![My Coding Journey](https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=omni&hide_border=true&bg_color=00000000&title_color=7A3CEB&icon_color=58A6FF&text_color=C9D1D9&custom_title=My+Coding+Journey&include_all_commits=true&count_private=true)](https://github.com/itaqiz)
-
-[![Language Mastery](https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&theme=omni&hide_border=true&bg_color=00000000&title_color=7A3CEB&text_color=C9D1D9&custom_title=My+Language+Stack&langs_count=6)](https://github.com/itaqiz)
-
-[![Consistency Streak](https://streak-stats.demolab.com?user=itaqiz&theme=omni&hide_border=true&background=00000000&ring=7A3CEB&fire=FF79C6&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&stroke=30363D)](https://github.com/itaqiz)
+<div align="center">
+  
+  <!-- Dynamic GitHub Stats -->
+  <a href="https://github.com/itaqiz">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  </a>
+  
+  <!-- Streak Stats with Fire -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=itaqiz&theme=radical&hide_border=true"/>
 
 </div>
 
