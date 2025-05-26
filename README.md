@@ -22,21 +22,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
+  <!-- Dynamic GitHub Stats -->
   <a href="https://github.com/itaqiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&langs_count=8&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
   </a>
-</div>
+  
+  <!-- Streak Stats with Fire -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=itaqiz&theme=radical&hide_border=true"/>
 
-<div align="center">
-  <a href="https://github.com/itaqiz">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itaqiz&theme=radical"/>
-  </a>
 </div>
 
 ## 🤝 Let's Connect
-
-I'm always open to collaborating on interesting projects and discussing AI/ML concepts.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaqiz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iTaqiZ)
