@@ -1,6 +1,6 @@
 # Hello, I'm Muhammad Taqui 👋
 
-🎓 Pursuing Bachelor's in Artificial Intelligence  
+🎓 Bachelor's in Artificial Intelligence  
 💻 Passionate about AI, Machine Learning, and Open Source  
 🌱 Continuously learning and building projects to expand my skills
 
