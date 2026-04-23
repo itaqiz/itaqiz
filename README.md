@@ -4,14 +4,22 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+Graduate;260%2B+Verified+Certifications;Machine+Learning+%7C+Data+Science+%7C+AI;Building+real+world+AI+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=BS+Artificial+Intelligence+Graduate;260%2B+Verified+Certifications;Machine+Learning+%7C+Data+Science+%7C+AI;Building+real-world+AI+systems;Open+to+Global+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://itaqiz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itaqiz)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itaqiz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtaquichat@gmail.com)
+<a href="https://itaqiz.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Now-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/itaqiz">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@itaqiz">
+  <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="mailto:muhammadtaquichat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -19,14 +27,14 @@
 
 ## 🧠 About Me
 
-> *Building intelligent systems with a strong foundation in AI, Data Science, and real-world problem solving.*
+> *AI Engineer focused on building practical, real-world intelligent systems.*
 
 - 🎓 **BS Artificial Intelligence Graduate** — Bahria University  
-- 📊 **260+ Verified Certifications** (AI, Machine Learning, Data Science, Programming)  
-- 🤖 Focused on **Machine Learning systems, data pipelines & applied AI**  
+- 📊 **260+ Verified Certifications** across AI, ML, Data Science & Programming  
+- 🤖 Specializing in **Machine Learning systems, pipelines & applied AI**  
 - 🌍 **Aspire Leaders Program** · **Google Gemini Certified Educator**  
-- ✍️ Writing about AI & learning journey on Medium  
-- 📍 Pakistan · Open to **remote & global opportunities**
+- ✍️ Sharing insights on AI, learning & growth  
+- 📍 Pakistan · Open to **remote roles & international collaboration**
 
 ---
 
@@ -71,11 +79,11 @@
 
 <br/>
 
-- AI / Machine Learning (80+)  
-- Data Science (60+)  
-- Programming (70+)  
-- Google / IBM / Microsoft Tracks  
-- Research & Academic Certifications  
+✔ AI / Machine Learning (80+)  
+✔ Data Science (60+)  
+✔ Programming (70+)  
+✔ Google / IBM / Microsoft Tracks  
+✔ Research & Academic Certifications  
 
 </details>
 
@@ -85,13 +93,13 @@
 
 | Project | Description |
 |--------|------------|
-| **ML Pipeline System** | End-to-end ML workflow (data → preprocessing → model → API deployment) |
-| **Deep Learning Classifier** | Computer vision model using TensorFlow for real-world classification |
-| **AI Research Notes System** | Structured knowledge base for tracking AI research & experiments |
+| **ML Pipeline System** | End-to-end ML workflow (data → preprocessing → model → deployment) |
+| **Deep Learning Classifier** | Computer vision model using TensorFlow |
+| **AI Research Notes System** | Structured knowledge base for AI experiments |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -104,46 +112,48 @@
 
 ---
 
-## 🌐 Content & Presence
-
-- ✍️ Medium → AI insights, learning & breakdowns  
-- 💻 GitHub → Projects & open-source work  
-- 🌐 Portfolio → Complete professional profile  
-
----
-
----
-
 ## 🌐 Connect & Explore
 
 <div align="center">
 
+### 🚀 Explore My Work
+
 <a href="https://itaqiz.github.io">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_Now-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-View_Full_Profile-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-🚀 *Projects, certifications, and AI journey — all in one place.*
+
+<br/>
+
+✨ *Projects · Certifications · AI Journey — all in one place*
+
 <br/><br/>
+
+### 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/itaqiz">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Taqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://medium.com/@itaqiz">
-  <img src="https://img.shields.io/badge/Medium-@itaqiz-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-Insights-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="mailto:muhammadtaquichat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=itaqiz&color=3b82f6&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=itaqiz&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-### 💡 Philosophy
+---
 
-**“Consistency beats intensity. Build daily, win long-term.”**
+## 💡 Philosophy
+
+<div align="center">
+
+**“Consistency beats intensity. Build daily, win globally.”**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
-
-</div>
