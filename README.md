@@ -112,14 +112,33 @@
 
 ---
 
-## 🤝 Connect
-
-[LinkedIn](https://linkedin.com/in/itaqiz) • [Medium](https://medium.com/@itaqiz)  
-📧 muhammadtaquichat@gmail.com  
-
 ---
 
+## 🌐 Connect & Explore
+
 <div align="center">
+
+<a href="https://itaqiz.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_Now-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+🚀 *Projects, certifications, and AI journey — all in one place.*
+<br/><br/>
+
+<a href="https://linkedin.com/in/itaqiz">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Taqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@itaqiz">
+  <img src="https://img.shields.io/badge/Medium-@itaqiz-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="mailto:muhammadtaquichat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itaqiz&color=3b82f6&style=for-the-badge&label=Profile+Views"/>
+
+</div>
 
 ### 💡 Philosophy
 
