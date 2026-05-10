@@ -112,8 +112,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itaqiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D1FF&text_color=E6E6E6&icon_color=00D1FF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaqiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D1FF&text_color=E6E6E6"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itaqiz&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itaqiz&theme=tokyonight"/>
 
 <br/>
 
