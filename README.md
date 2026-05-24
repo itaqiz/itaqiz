@@ -30,7 +30,6 @@
 > *Data Science and AI enthusiast focused on building practical intelligent systems, conducting research, and contributing to open knowledge through technology.*
 
 - 🎓 **BS Artificial Intelligence Graduate** — Bahria University
-- 📊 **260+ Verified Certifications** across AI, Data Science, Programming & Research
 - 🤖 Interested in **Machine Learning systems, data workflows & applied AI**
 - 🌍 **Aspire Leaders Program** · **Google Gemini Certified Educator**
 - ✍️ Sharing insights on AI, research, learning & growth
@@ -83,8 +82,6 @@
 - 🚀 **Aspire Leaders Program**
 - 🤖 **Google Gemini Certified Educator**
 
-<details>
-<summary><b>📂 View Full Certification Archive (260+)</b></summary>
 
 <br/>
 
@@ -95,16 +92,6 @@
 ✔ Research & Academic Certifications  
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **ML Pipeline System** | End-to-end ML workflow (data → preprocessing → model → deployment) |
-| **Deep Learning Classifier** | Computer vision model using Python-based deep learning workflows |
-| **AI Research Notes System** | Structured knowledge base for AI experiments and research |
 
 ---
 
