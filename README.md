@@ -85,14 +85,6 @@
 
 <br/>
 
-✔ AI / Machine Learning (80+)  
-✔ Data Science (60+)  
-✔ Programming (70+)  
-✔ Google / IBM / Microsoft Tracks  
-✔ Research & Academic Certifications  
-
-</details>
-
 ---
 
 ## 📊 GitHub Analytics
