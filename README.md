@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=Data%20•%20Research%20•%20Open%20Source%20•%20Intelligent%20Systems&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=Data%20•%20Research%20•%20Open%20Source&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Data+Scientist+%26+Research+Builder;Building+intelligent+systems+through+code+and+research;Machine+Learning+•+Data+Science+•+Open+Source;Open+to+global+collaboration+%26+opportunities)](https://git.io/typing-svg)
