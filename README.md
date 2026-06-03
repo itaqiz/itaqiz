@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=AI%20•%20Research%20•%20Open%20Source&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
@@ -9,21 +8,10 @@
 
 <br/>
 
-<a href="https://itaqiz.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-08111F?style=for-the-badge&logo=vercel&logoColor=00D1FF"/>
-</a>
-
-<a href="https://linkedin.com/in/itaqiz">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-08111F?style=for-the-badge&logo=linkedin&logoColor=00D1FF"/>
-</a>
-
-<a href="https://medium.com/@itaqiz">
-  <img src="https://img.shields.io/badge/Medium-Articles-08111F?style=for-the-badge&logo=medium&logoColor=00D1FF"/>
-</a>
-
-<a href="mailto:muhammadtaquichat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-08111F?style=for-the-badge&logo=gmail&logoColor=00D1FF"/>
-</a>
+<a href="https://itaqiz.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore-08111F?style=for-the-badge&logo=vercel&logoColor=00D1FF"/></a>
+<a href="https://linkedin.com/in/itaqiz"><img src="https://img.shields.io/badge/LinkedIn-Connect-08111F?style=for-the-badge&logo=linkedin&logoColor=00D1FF"/></a>
+<a href="https://medium.com/@itaqiz"><img src="https://img.shields.io/badge/Medium-Articles-08111F?style=for-the-badge&logo=medium&logoColor=00D1FF"/></a>
+<a href="mailto:muhammadtaquichat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-08111F?style=for-the-badge&logo=gmail&logoColor=00D1FF"/></a>
 
 </div>
 
@@ -110,7 +98,6 @@
 <div align="center">
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itaqiz&theme=tokyonight"/>
-
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itaqiz&theme=tokyonight"/>
 
 <br/>
@@ -125,21 +112,10 @@
 
 <div align="center">
 
-<a href="https://itaqiz.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-View_Profile-08111F?style=for-the-badge&logo=vercel&logoColor=00D1FF"/>
-</a>
-
-<a href="https://linkedin.com/in/itaqiz">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Taqui-08111F?style=for-the-badge&logo=linkedin&logoColor=00D1FF"/>
-</a>
-
-<a href="https://medium.com/@itaqiz">
-  <img src="https://img.shields.io/badge/Medium-Articles-08111F?style=for-the-badge&logo=medium&logoColor=00D1FF"/>
-</a>
-
-<a href="mailto:muhammadtaquichat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-08111F?style=for-the-badge&logo=gmail&logoColor=00D1FF"/>
-</a>
+<a href="https://itaqiz.github.io"><img src="https://img.shields.io/badge/Portfolio-View_Profile-08111F?style=for-the-badge&logo=vercel&logoColor=00D1FF"/></a>
+<a href="https://linkedin.com/in/itaqiz"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Taqui-08111F?style=for-the-badge&logo=linkedin&logoColor=00D1FF"/></a>
+<a href="https://medium.com/@itaqiz"><img src="https://img.shields.io/badge/Medium-Articles-08111F?style=for-the-badge&logo=medium&logoColor=00D1FF"/></a>
+<a href="mailto:muhammadtaquichat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-08111F?style=for-the-badge&logo=gmail&logoColor=00D1FF"/></a>
 
 <br/><br/>
 
@@ -164,4 +140,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:08111F&height=120&section=footer"/>
-```
