@@ -139,4 +139,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:08111F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:08111F&height=120&section=footer" width="100%"/>
