@@ -1,10 +1,11 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=AI%20•%20Research%20•%20Open%20Source&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Graduate;Building+intelligent+systems+through+code+and+research;Machine+Learning+•+Data+Science+•+Research;Open+to+global+collaboration+%26+opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Graduate;Building+intelligent+systems+through+code+and+research;AI+%7C+Data+Science+%7C+Research;Open+to+global+collaboration+and+opportunities"/>
 
 <br/>
 
@@ -30,26 +31,26 @@
 
 ## 🧠 About Me
 
-> *Artificial Intelligence graduate exploring the intersection of machine learning, data science, and research to build practical intelligent systems and contribute to open knowledge.*
+> *Artificial Intelligence graduate focused on building intelligent systems through machine learning, data science, and research-driven development.*
 
-* 🎓 BS Artificial Intelligence Graduate — Bahria University
-* 🔬 Building a long-term profile in AI, Data Science, and research
-* 🤖 Interested in Machine Learning, Data Analytics, Knowledge Systems, and Applied AI
-* 📚 Working toward publications, advanced studies, and research opportunities
-* ✍️ Writing about AI, research, learning, and technology
-* 🌍 Open to collaboration, research projects, and international opportunities
-* 📍 Pakistan
+- 🎓 BS Artificial Intelligence Graduate — Bahria University
+- 🔬 Focused on AI, Data Science, and Research-based development
+- 🤖 Interested in Machine Learning, Data Analytics, and Knowledge Systems
+- 📚 Actively building research direction for advanced studies and publications
+- ✍️ Writing and exploring ideas in AI, data, and applied research
+- 🌍 Open to collaboration, research projects, and global opportunities
+- 📍 Pakistan
 
 ---
 
 ## 🧭 Current Focus
 
-* Applied Machine Learning
-* Data Science & Analytics
-* AI Research & Literature Review
-* Knowledge Systems & Intelligent Applications
-* Open Source Projects
-* Technical Writing & Documentation
+- Applied Machine Learning
+- Data Science & Analytics
+- AI Research & Literature Review
+- Knowledge Systems & Intelligent Applications
+- Open Source Development
+- Technical Writing & Documentation
 
 ---
 
@@ -59,21 +60,21 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-08111F?style=for-the-badge\&logo=python\&logoColor=00D1FF)
-![R](https://img.shields.io/badge/R-08111F?style=for-the-badge\&logo=r\&logoColor=00D1FF)
-![SQL](https://img.shields.io/badge/SQL-08111F?style=for-the-badge\&logo=mysql\&logoColor=00D1FF)
+![Python](https://img.shields.io/badge/Python-08111F?style=for-the-badge&logo=python&logoColor=00D1FF)
+![R](https://img.shields.io/badge/R-08111F?style=for-the-badge&logo=r&logoColor=00D1FF)
+![SQL](https://img.shields.io/badge/SQL-08111F?style=for-the-badge&logo=mysql&logoColor=00D1FF)
 
 ### AI / Data Science
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-08111F?style=for-the-badge\&logo=scikitlearn\&logoColor=00D1FF)
-![Pandas](https://img.shields.io/badge/Pandas-08111F?style=for-the-badge\&logo=pandas\&logoColor=00D1FF)
-![NumPy](https://img.shields.io/badge/NumPy-08111F?style=for-the-badge\&logo=numpy\&logoColor=00D1FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-08111F?style=for-the-badge&logo=scikitlearn&logoColor=00D1FF)
+![Pandas](https://img.shields.io/badge/Pandas-08111F?style=for-the-badge&logo=pandas&logoColor=00D1FF)
+![NumPy](https://img.shields.io/badge/NumPy-08111F?style=for-the-badge&logo=numpy&logoColor=00D1FF)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-08111F?style=for-the-badge\&logo=git\&logoColor=00D1FF)
-![GitHub](https://img.shields.io/badge/GitHub-08111F?style=for-the-badge\&logo=github\&logoColor=00D1FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-08111F?style=for-the-badge\&logo=jupyter\&logoColor=00D1FF)
+![Git](https://img.shields.io/badge/Git-08111F?style=for-the-badge&logo=git&logoColor=00D1FF)
+![GitHub](https://img.shields.io/badge/GitHub-08111F?style=for-the-badge&logo=github&logoColor=00D1FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-08111F?style=for-the-badge&logo=jupyter&logoColor=00D1FF)
 
 </div>
 
@@ -81,26 +82,26 @@
 
 ## 🏆 Key Credentials
 
-* 🎓 CS50x — Harvard University
-* 📊 Google Data Analytics Professional Certificate
-* 🤖 IBM Applied AI Professional Certificate
-* 🧠 CertNexus Data Science Practitioner
-* 🐙 GitHub Foundations Certified
-* 🚀 Aspire Leaders Program
-* 🤖 Google Gemini Certified Educator
+- 🎓 CS50x — Harvard University
+- 📊 Google Data Analytics Professional Certificate
+- 🤖 IBM Applied AI Professional Certificate
+- 🧠 CertNexus Data Science Practitioner
+- 🐙 GitHub Foundations Certified
+- 🚀 Aspire Leaders Program
+- 🤖 Google Gemini Certified Educator
 
 ---
 
 ## 📚 Research Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Explainable AI (XAI)
-* Knowledge Systems
-* AI for Social Impact
-* Intelligent Decision Support Systems
-* Human-Centered AI
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Explainable AI (XAI)
+- Knowledge Systems
+- AI for Social Impact
+- Intelligent Decision Systems
+- Human-Centered AI
 
 ---
 
@@ -114,7 +115,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=itaqiz&theme=tokyonight&hide_border=true&background=08111F&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itaqiz&theme=tokyonight&hide_border=true&background=08111F&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF"/>
 
 </div>
 
@@ -156,12 +157,11 @@
 
 **AI • Research • Open Source**
 
-<br/>
-
-> *From code to knowledge, from knowledge to impact.*
+> *From learning to research, from research to impact.*
 
 </div>
 
-<br/>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:08111F&height=120&section=footer"/>
+```
