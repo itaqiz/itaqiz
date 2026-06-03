@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=AI%20•%20Research%20•%20Open%20Source&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,100:00D1FF&height=200&section=header&text=Muhammad%20Taqui&fontSize=52&fontColor=E6E6E6&fontAlignY=38&desc=AI%20•%20Data%20•%20Research%20•%20Open%20Source&descAlignY=58&descSize=20&descColor=00D1FF" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Graduate;Building+intelligent+systems+through+code+and+research;AI+%7C+Data+Science+%7C+Research;Open+to+global+collaboration+and+opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Graduate;Building+intelligent+systems+through+data+and+research;AI+%7C+Data+Science+%7C+Research+%7C+Open+Source;Open+to+global+collaboration+and+opportunities"/>
 
 <br/>
 
@@ -102,7 +102,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itaqiz&theme=tokyonight&hide_border=true&background=08111F&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF"/>
+<img src="https://streak-stats.demolab.com?user=itaqiz&theme=tokyonight&hide_border=true&background=08111F&ring=00D1FF&fire=00D1FF"/>
 
 </div>
 
@@ -131,7 +131,7 @@
 
 ### Muhammad Taqui | iTaqiZ
 
-**AI • Research • Open Source**
+**AI • Data • Research • Open Source**
 
 > *From learning to research, from research to impact.*
 
