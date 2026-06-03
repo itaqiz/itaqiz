@@ -102,7 +102,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=itaqiz&theme=tokyonight&background=08111f&ring=00d1ff&fire=00d1ff&hide_border=true"/>
+<img src="https://github-readme-streak-stats-three.vercel.app/?user=itaqiz&theme=tokyonight&background=08111F&ring=00D1FF&fire=00D1FF&hide_border=true"/>
 
 </div>
 
